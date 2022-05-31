@@ -24,9 +24,9 @@ Les données sont accessibles dans le kaggle dataset ["fruits360"](https://www.k
 
 ### Concrètement
 
-Le vrai but de ce projet est de se familiariser avec l'architecture big data.
-J'ai donc uniquement sélectionné 5 fruits ou légumes différents pour lesquels j'ai choisis 5 images (dans un but de limitation des couts tous en conservant l'architecture big data).
-Les données sont ensuite prétraitées pour l'utilisation d'un réseau de neuronnes spécialisé dans le traitement de l'image : CNN, voir aussi projet 6).
+Le vrai but de ce projet est de se familiariser avec l'architecture big data. <br>
+J'ai donc uniquement sélectionné 5 fruits ou légumes différents pour lesquels j'ai choisis 5 images (dans un but de limitation des couts tous en conservant l'architecture big data). <br>
+Les données sont ensuite prétraitées pour l'utilisation d'un réseau de neuronnes spécialisé dans le traitement de l'image : CNN, voir aussi projet 6). <br>
 Liens vers mon [script](https://github.com/Condefruit/P08_formation_DS/blob/main/P08_notebook_cloud.ipynb). <br>
 Dans le cadre de l'architecture big data, j'ai travaillé avec des RDD, des dataframes Spark et les librairies Mlib et Keras et les services AWS. <br>
 Liens vers ma [présentation](https://github.com/Condefruit/P08_formation_DS/blob/main/Support_presentation.pdf).
